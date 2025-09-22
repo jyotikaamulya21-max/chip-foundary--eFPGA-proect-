@@ -8,6 +8,7 @@ This repo experiments an implementation of an eFPGA from RTL to GDS with the ope
 
 The individual macros and the fabric were fully implemented using the [OpenLane flow](https://github.com/The-OpenROAD-Project/OpenLane.git) and integrated into [efabless caravel_user_project](https://github.com/efabless/caravel_user_project.git) wrapper.
 
+<img width="911" height="1096" alt="image" src="https://github.com/user-attachments/assets/aeeb3bd2-19d3-4216-a15f-2c469ccfac4a" />
 
 <img src="/docs/img/Fabric.png" alt="The gds view of the fabric." width="650" height="750"/>
 
