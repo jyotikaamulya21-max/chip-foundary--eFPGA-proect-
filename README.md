@@ -1,4 +1,4 @@
-# Open-Everything FPGA in Skywater130 (672x LUTs, 7x DSPs, 7x BRAMs)
+<img width="911" height="1096" alt="image" src="https://github.com/user-attachments/assets/6c9ff931-17c7-4d40-b5ae-c7bc40b3f838" /># Open-Everything FPGA in Skywater130 (672x LUTs, 7x DSPs, 7x BRAMs)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
 
@@ -8,6 +8,7 @@ This repo experiments an implementation of an eFPGA from RTL to GDS with the ope
 
 The individual macros and the fabric were fully implemented using the [OpenLane flow](https://github.com/The-OpenROAD-Project/OpenLane.git) and integrated into [efabless caravel_user_project](https://github.com/efabless/caravel_user_project.git) wrapper.
 
+<img width="911" height="1096" alt="image" src="https://github.com/user-attachments/assets/43aa3a02-f310-4416-9d5d-1ad35b9cc4e3" />
 
 <img src="/docs/img/Fabric.png" alt="The gds view of the fabric." width="650" height="750"/>
 
