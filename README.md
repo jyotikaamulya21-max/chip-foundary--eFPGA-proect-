@@ -33,4 +33,4 @@ process.
 `write_sdc` command.
 * [verilog](verilog): The Verilog source files used in the design.
 
-
+Authors: Ganesh D, Sreenivasa K, Sai Prakash S, Jyotika Amulya M. 
