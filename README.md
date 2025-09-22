@@ -10,7 +10,6 @@ The individual macros and the fabric were fully implemented using the [OpenLane 
 
 <img width="911" height="1096" alt="image" src="https://github.com/user-attachments/assets/aeeb3bd2-19d3-4216-a15f-2c469ccfac4a" />
 
-<img src="/docs/img/Fabric.png" alt="The gds view of the fabric." width="650" height="750"/>
 
 ## Project structure
 
